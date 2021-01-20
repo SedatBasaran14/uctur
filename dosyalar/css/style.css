@@ -34,3 +34,21 @@
   .r-l-fluid-padding {
     padding: 3% 15%;
   }
+
+  .cards-ozel {
+    background-color: #EEEEEE;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+
+  .card {
+    border-radius: 2rem;
+  }
+
+  .card-img-top {
+  border-top-left-radius: 1rem ;
+  border-top-right-radius: 1rem;
+  }
+  .height180px {
+    height: 180px;
+  }
